@@ -71,16 +71,19 @@
   + 결제 상태 변경
 
 ## ☑ 파트너-펀딩발송 관리
-
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129726818-1de8e3d8-5e88-4164-84b6-ade08ebd059f.gif">
 
 ## ☑ 관리자-로그인
-
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129726318-e1367e09-b5eb-4683-8648-83dbc38c0e42.gif">
 
 ## ☑ 관리자-회원관리
-
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129727322-658e8470-8ba8-48fa-9d31-1cd6283fd4a8.gif">
 
 ## ☑ 관리자-펀딩관리
-
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129729688-8430ce65-37bd-41b3-8a1b-e0d5ca4041d3.gif">
 
 ## ☑ 관리자-결제관리
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129728331-21a7c31e-93eb-496a-9637-bd1991b3c16f.gif">
 
+## ☑ 검색기능(공통)
+<img width = "80%" src = "https://user-images.githubusercontent.com/82308444/129730013-4a2a9b51-9bb1-4bb8-bf26-ab2a3a6816d4.gif">
